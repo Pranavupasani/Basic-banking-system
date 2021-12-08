@@ -1,0 +1,94 @@
+body {
+    background: #B68973;
+  
+  }
+  
+  .container-fluid{
+    padding: 2% 10%;
+  
+  }
+  
+  h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #edffa9;
+  }
+  
+  h3{
+    font-family: 'Ubuntu Condensed', sans-serif;
+  }
+  
+  body{
+    font-family: 'Ubuntu Condensed', sans-serif;
+  }
+  
+  .navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+  } 
+  .navbar-nav{
+  padding: 0% 54%;
+  }
+  .nav-item{
+    padding: 0 10px;
+  }
+  .nav-link{
+    font-size: 1.2rem;
+    padding: 1px;
+  }
+  .my-info{
+    margin: 27px;
+    margin-top: -49px;
+    margin-left: -77px;
+  }
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: #DD4A48!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: tomato!important
+}
+
+.container{
+  padding: 1px 77px;
+  padding-bottom: 9%;
+  
+}
+
+
+
+
+
+
+
+
+
+  #social{
+    padding-left: 85%;
+    margin: -34px 0px -2px 14px;
+  }
+  .logos{
+    
+    padding: 8px 8px  ;
+    inline-size: auto;
+    
+  }
+
+  #footer{
+  
+    position: fixed;
+     left: 0; 
+    bottom: 0;
+    width: 100%;
+    background-color:black;
+    color: white;
+    padding: 9px 78px;
+    /* text-align: center; */
+  }
